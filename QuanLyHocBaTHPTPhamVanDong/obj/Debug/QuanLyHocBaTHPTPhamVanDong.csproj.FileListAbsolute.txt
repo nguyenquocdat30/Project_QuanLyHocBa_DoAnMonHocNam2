@@ -1,0 +1,12 @@
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\QuanLyHocBaTHPTPhamVanDong\bin\Debug\QuanLyHocBaTHPTPhamVanDong.exe.config
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\QuanLyHocBaTHPTPhamVanDong\bin\Debug\QuanLyHocBaTHPTPhamVanDong.exe
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\QuanLyHocBaTHPTPhamVanDong\bin\Debug\QuanLyHocBaTHPTPhamVanDong.pdb
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\QuanLyHocBaTHPTPhamVanDong\obj\Debug\QuanLyHocBaTHPTPhamVanDong.csprojResolveAssemblyReference.cache
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\QuanLyHocBaTHPTPhamVanDong\obj\Debug\QuanLyHocBaTHPTPhamVanDong.FormLogin.resources
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\QuanLyHocBaTHPTPhamVanDong\obj\Debug\QuanLyHocBaTHPTPhamVanDong.Properties.Resources.resources
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\QuanLyHocBaTHPTPhamVanDong\obj\Debug\QuanLyHocBaTHPTPhamVanDong.csproj.GenerateResource.Cache
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\QuanLyHocBaTHPTPhamVanDong\obj\Debug\QuanLyHocBaTHPTPhamVanDong.exe
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\QuanLyHocBaTHPTPhamVanDong\obj\Debug\QuanLyHocBaTHPTPhamVanDong.pdb
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\QuanLyHocBaTHPTPhamVanDong\obj\Debug\QuanLyHocBaTHPTPhamVanDong.TableManager.resources
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\QuanLyHocBaTHPTPhamVanDong\obj\Debug\QuanLyHocBaTHPTPhamVanDong.ThongTinTaiKhoan.resources
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\QuanLyHocBaTHPTPhamVanDong\obj\Debug\QuanLyHocBaTHPTPhamVanDong.fAdmin.resources

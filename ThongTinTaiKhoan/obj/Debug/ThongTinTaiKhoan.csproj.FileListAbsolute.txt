@@ -1,0 +1,8 @@
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\ThongTinTaiKhoan\bin\Debug\ThongTinTaiKhoan.exe.config
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\ThongTinTaiKhoan\bin\Debug\ThongTinTaiKhoan.exe
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\ThongTinTaiKhoan\bin\Debug\ThongTinTaiKhoan.pdb
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\ThongTinTaiKhoan\obj\Debug\ThongTinTaiKhoan.csprojResolveAssemblyReference.cache
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\ThongTinTaiKhoan\obj\Debug\ThongTinTaiKhoan.Properties.Resources.resources
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\ThongTinTaiKhoan\obj\Debug\ThongTinTaiKhoan.csproj.GenerateResource.Cache
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\ThongTinTaiKhoan\obj\Debug\ThongTinTaiKhoan.exe
+E:\PROJECT_C#\QuanLyHocBaTHPTPhamVanDong\ThongTinTaiKhoan\obj\Debug\ThongTinTaiKhoan.pdb
